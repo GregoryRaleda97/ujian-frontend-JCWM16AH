@@ -1,0 +1,7 @@
+.link-router a{
+    color: #ecf0f1;
+  }
+  .link-router a:hover{
+    color: white;
+    text-decoration: none;
+  }
